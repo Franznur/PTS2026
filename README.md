@@ -1,8 +1,9 @@
 # Project Unity - CoinCollector
 
 ## Identitas Siswa
-- **Nama:** Ahda
-- **Kelas/Jurusan:** PPLG - SMK Raden Umar Said Kudus
+- **Nama:** Muhammad Nur Wafi Ahda Taqiyya
+- **Absen:** 23
+- **Kelas/Jurusan:** 11 PPLG 3 - SMK Raden Umar Said Kudus
 
 ## Fitur & Tugas
 1. GameManager
